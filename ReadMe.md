@@ -42,7 +42,7 @@
 
 如果在网络上并没有找到合适的解答，可以向Stackoverflow这样的问答类网站提出自己的问题。
 
-在提出问题前，建议通读一边《提问的智慧》([中](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md))([英](http://www.catb.org/~esr/faqs/smart-questions.html))，让你的提问更明确，节省大家的时间。
+在提出问题前，建议通读一遍《提问的智慧》([中](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md))([英](http://www.catb.org/~esr/faqs/smart-questions.html))，让你的提问更明确，节省大家的时间。
 
 ## 基础知识
 
@@ -206,7 +206,7 @@ Docker是一个开源软件项目，让应用程序能够在隔离的容器中�
 
 现在有许多个json文件，每个json包含了一个Model的信息。
 
-你需要将这些json文件解析，导入到Django的数据库中。将解析JSON的方法见：[JSON encoder and decoder](https://docs.python.org/3/library/json.html)
+你需要将这些json文件解析，导入到Django的数据库中。解析JSON的方法见：[JSON encoder and decoder](https://docs.python.org/3/library/json.html)
 
 要求：
 
