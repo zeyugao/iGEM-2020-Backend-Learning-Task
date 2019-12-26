@@ -133,7 +133,7 @@ Python有2和3两个版本，有部分语法不兼容，可以了解二者语法
 
 #### ~~Do you know Python（可选）~~
 
-Hackergame 2019的一道Python题目，里面有20小问，参考着答案做会让你对Python的数据结构有更深入的了解。题目：[do_you_know_python.py](https://github.com/zeyugao/iGEM-2020-Backend-Learnning-Task/master/do_you_know_python.py)。题解[Write-up](https://github.com/ustclug/hackergame2019-writeups/blob/master/official/%E4%B8%8D%E5%90%8C%E5%AF%BB%E5%B8%B8%E7%9A%84_Python_%E8%80%83%E8%AF%95/README.md)
+Hackergame 2019的一道Python题目，里面有20小问，参考着答案做会让你对Python的数据结构有更深入的了解。题目：[do_you_know_python.py](https://github.com/zeyugao/iGEM-2020-Backend-Learnning-Task/blob/master/do_you_know_python.py)。题解[Write-up](https://github.com/ustclug/hackergame2019-writeups/blob/master/official/%E4%B8%8D%E5%90%8C%E5%AF%BB%E5%B8%B8%E7%9A%84_Python_%E8%80%83%E8%AF%95/README.md)
 
 ## Django
 
