@@ -28,7 +28,7 @@
 
 - 首先确定并非是低级错误，如typo、语法错误等。
 
-- 尽量不要使用完整的自然语句，而是使用关键字。如“xxx错是一个比“为什么发生xxx错误”更好的搜索内容。
+- 尽量不要使用完整的自然语句，而是使用关键字。如“xxx错误”是一个比“为什么发生xxx错误”更好的搜索内容。
 
 - 如果使用中文无法找到，可以翻译为英文再尝试。
 
@@ -228,10 +228,10 @@ JSON下载： [GitHub Hosted](https://raw.githubusercontent.com/zeyugao/iGEM-202
 ```python
 from django.db import models as _models
 
-class Model(models.Model):
+class Model(_models.Model):
     id_ = _models.CharField(unique=True, max_length=127, db_index=True)
 
-class Reaction(models.Model):
+class Reaction(_models.Model):
     id_ = _models.CharField(max_length=127, unique=True, db_index=True)
     name = _models.CharField(max_length=255, blank=True)
     models = _models.ManyToManyField(Model)
