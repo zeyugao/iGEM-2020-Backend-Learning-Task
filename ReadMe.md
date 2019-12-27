@@ -217,7 +217,7 @@ Docker是一个开源软件项目，让应用程序能够在隔离的容器中�
 - Gene保存的信息：`id`，`name`
 - 提供一个网页，可以查询Model，Metabolite，Reaction，Gene的信息
 
-JSON下载： [GitHub Hosted](https://raw.githubusercontent.com/zeyugao/iGEM-2020-Backend-Learnning-Task/master/models.zip) or [Atler Server Hosted](http://igem.elsagranger.tk/attachment/models.zip)
+JSON下载： [GitHub Hosted](https://raw.githubusercontent.com/zeyugao/iGEM-2020-Backend-Learnning-Task/master/models.zip) or [Alter Server Hosted](http://igem.elsagranger.tk/attachment/models.zip)
 
 > 请不要学用GitHub来添加无法被追踪的二进制文件这个错误例子
 
