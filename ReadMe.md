@@ -223,7 +223,11 @@ JSON下载： [GitHub Hosted](https://raw.githubusercontent.com/zeyugao/iGEM-202
 
 #### 参考：
 
-在`models.py`定义的Django Model参考：
+- 如何用外部程序通过Django ORM操作数据库
+
+[How to execute a Python script from the Django shell?](https://stackoverflow.com/questions/16853649/how-to-execute-a-python-script-from-the-django-shell)
+
+- 在`models.py`定义的Django Model参考：
 
 ```python
 from django.db import models as _models
